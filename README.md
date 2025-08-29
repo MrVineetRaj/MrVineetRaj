@@ -81,8 +81,44 @@
 
 # 📝 My Latest Articles
 
+<table>
+
+<tr><td width="50%" align="center">
+  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" width="100%" alt="Linked Lists in Data structure and Algorithms"/>
+  </a>
+  <br />
+  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">Linked Lists in Data structure and Algorithms</a>
+</td>
+    <td width="50%" align="center">
+  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" width="100%" alt="Arrays in Data structure and Algorithms"/>
+  </a>
+  <br />
+  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">Arrays in Data structure and Algorithms</a>
+</td>
+    </tr><tr><td width="50%" align="center">
+  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750313893715/31b89db2-945d-4770-9c29-fae5656cda40.jpeg" width="100%" alt="Essential Docker Commands Every Beginner Should Learn"/>
+  </a>
+  <br />
+  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">Essential Docker Commands Every Beginner Should Learn</a>
+</td>
+    <td width="50%" align="center">
+  <a href="https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1747708795064/7bafec3d-83f5-41fc-a316-46b646103dcd.png" width="100%" alt="Graph Theory in Data structure and Algorithms"/>
+  </a>
+  <br />
+  <a href="https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms" target="_blank">Graph Theory in Data structure and Algorithms</a>
+</td>
+    </tr>
+</table>
+
+### Other Recent Articles
+* [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
 
 <div align="center">
 <a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
 </div>
+
 ---
