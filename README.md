@@ -81,7 +81,3 @@
 
 ### 📝 My Latest Articles
 ---
-
-<p align="center">
-  📫 How to reach me: <strong>vineetrajrj26@gmail.com</strong>
-</p>
