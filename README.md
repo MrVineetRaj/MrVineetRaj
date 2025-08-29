@@ -79,5 +79,10 @@
 
 ---
 
-### 📝 My Latest Articles
+# 📝 My Latest Articles
+
+
+<div align="center">
+<a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
+</div>
 ---
