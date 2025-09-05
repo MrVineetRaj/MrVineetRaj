@@ -27,9 +27,9 @@
     <td valign="top" width="50%">
       <h3 align="center">GitRoaster - AI Pull Request Reviewer</h3>
       <p align="center">
-        <a href="YOUR_GITROASTER_REPO_LINK" target="_blank">
+<!--         <a href="YOUR_GITROASTER_REPO_LINK" target="_blank">
           <img src="https://via.placeholder.com/400x250.png?text=Add+Project+GIF+Here" alt="GitRoaster Project GIF"/>
-        </a>
+        </a> -->
       </p>
       <p>A complete SaaS product for automated pull request reviews, featuring team management, billing, and a privacy-first architecture.</p>
       <p><strong>Tech Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
@@ -37,9 +37,9 @@
     <td valign="top" width="50%">
       <h3 align="center">BitClimb - Code Execution Platform</h3>
       <p align="center">
-        <a href="YOUR_BITCLIMB_REPO_LINK" target="_blank">
+<!--         <a href="YOUR_BITCLIMB_REPO_LINK" target="_blank">
           <img src="https://via.placeholder.com/400x250.png?text=Add+Project+Image+Here" alt="BitClimb Project Image"/>
-        </a>
+        </a> -->
       </p>
       <p>A self-hosted, competitive programming platform where I engineered a custom execution engine to reduce runtimes by 50%.</p>
       <p><strong>Tech Stack:</strong> React, Express.js, Docker, Redis, PostgreSQL</p>
