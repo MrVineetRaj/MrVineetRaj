@@ -27,9 +27,9 @@
     <td valign="top" width="50%">
       <h3 align="center">GitRoaster - AI Pull Request Reviewer</h3>
       <p align="center">
-<!--         <a href="YOUR_GITROASTER_REPO_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x250.png?text=Add+Project+GIF+Here" alt="GitRoaster Project GIF"/>
-        </a> -->
+        <a href="https://www.gitroaster.space" target="_blank">
+          <img src="./src/gitroaster.png" alt="GitRoaster Project GIF"/>
+        </a>
       </p>
       <p>A complete SaaS product for automated pull request reviews, featuring team management, billing, and a privacy-first architecture.</p>
       <p><strong>Tech Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
@@ -37,9 +37,9 @@
     <td valign="top" width="50%">
       <h3 align="center">BitClimb - Code Execution Platform</h3>
       <p align="center">
-<!--         <a href="YOUR_BITCLIMB_REPO_LINK" target="_blank">
-          <img src="https://via.placeholder.com/400x250.png?text=Add+Project+Image+Here" alt="BitClimb Project Image"/>
-        </a> -->
+        <a href="https://www.bitclimb.live" target="_blank">
+          <img src="./src/bitclimb.png" alt="BitClimb Project Image"/>
+        </a>
       </p>
       <p>A self-hosted, competitive programming platform where I engineered a custom execution engine to reduce runtimes by 50%.</p>
       <p><strong>Tech Stack:</strong> React, Express.js, Docker, Redis, PostgreSQL</p>
@@ -115,19 +115,12 @@
 </table>
 
 ### Other Recent Articles
-* [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
-* [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
+
+- [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
+- [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
 
 <div align="center">
 <a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
 </div>
-
-
-
-
-
-
-
-
 
 ---
