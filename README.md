@@ -115,12 +115,12 @@
 </table>
 
 ### Other Recent Articles
-
-- [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
-- [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
+* [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
+* [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
 
 <div align="center">
 <a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
 </div>
+
 
 ---
