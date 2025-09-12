@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./src/profile_header.jpg" style="height:400px;width:100%"/>
   <h1>Hi 👋, I'm Vineet Raj</h1>
   
   <h3>
@@ -6,10 +7,10 @@
   </h3>
   
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.mrvineetraj.live/linkedin" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.unknownbug.tech" target="_blank">
+    <a href="https://www.mrvineetraj.live" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-E34F26?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="YOUR_RESUME_LINK" target="_blank">
