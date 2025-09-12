@@ -10,11 +10,12 @@
     <a href="https://www.mrvineetraj.live/linkedin" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/>
     <a href="https://www.mrvineetraj.live" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-E34F26?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="YOUR_RESUME_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/Download-Resume-A8B9CC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+    <a href="https://www.mrvineetraj.live/blog" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-A8B9CC?style=for-the-badge&logo=hashnode&logoColor=black" alt="Resume"/>
     </a>
   </p>
 </div>
@@ -116,17 +117,12 @@
 </table>
 
 ### Other Recent Articles
-* [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
-* [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
+
+- [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
+- [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
 
 <div align="center">
 <a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
 </div>
-
-
-
-
-
-
 
 ---
