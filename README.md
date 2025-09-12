@@ -1,128 +1,135 @@
-<div align="center">
-  <img src="./src/profile_header.jpg" style="height:400px;width:100%"/>
-  <h1>Hi 👋, I'm Vineet Raj</h1>
-  
-  <h3>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0d1117; color: #c9d1d9; }
+  .header { padding: 32px 0; background: linear-gradient(135deg, #18181b, #232526); border-radius: 18px; margin: 32px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }
+  .stats { padding: 24px 0; background: #232526; border-radius: 14px; margin: 32px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; }
+  .stats img { max-width: 100%; height: auto; }
+  .projects { display: flex; flex-wrap: wrap; gap: 16px; margin: 32px 0; }
+  .project-card { flex: 1 1 45%; background: #18181b; border-radius: 10px; padding: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; }
+  .project-card:hover { transform: translateY(-5px); }
+  .tech-stack { background: #232526; border-radius: 10px; padding: 16px 0; margin: 32px 0; text-align: center; }
+  .articles { display: flex; flex-wrap: wrap; gap: 16px; margin: 32px 0; }
+  .article-card { flex: 1 1 45%; background: #18181b; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center; }
+  .article-card:hover { transform: translateY(-5px); }
+  .article-card img { max-width: 100%; height: auto; border-radius: 8px; }
+  @media (max-width: 768px) { .projects, .articles { flex-direction: column; } .project-card, .article-card { flex: 1 1 100%; } .stats { flex-direction: column; align-items: center; } }
+</style>
+
+<div align="center" class="">
+  <img src="./src/profile_header.jpg" style="height:250px; width:100%; border-radius: 12px; margin-bottom: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" alt="Profile Header"/>
+  <h1 style="color:#fff; font-size:2.2rem; margin: 16px 0 8px 0; font-weight:700;">Hi 👋, I'm Vineet Raj</h1>
+  <p style="color:#d4d4d8; font-size:1.1rem; max-width:600px; margin: 0 auto 20px auto;">
     A builder at heart, driven to create complete, end-to-end software products that solve real-world problems.
-  </h3>
-  
+  </p>
   <p>
     <a href="https://www.mrvineetraj.live/linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/>
+    <a href="https://www.mrvineetraj.live/leetcode" target="_blank">
+      <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="Leetcode"/>
+    </a>
     <a href="https://www.mrvineetraj.live" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-E34F26?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-232526?style=flat-square&logo=dev.to&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.mrvineetraj.live/blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-A8B9CC?style=for-the-badge&logo=hashnode&logoColor=black" alt="Resume"/>
+      <img src="https://img.shields.io/badge/Blog-A8B9CC?style=flat-square&logo=hashnode&logoColor=black" alt="Blog"/>
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 My Premier Projects
+### 💻 Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">GitRoaster - AI Pull Request Reviewer</h3>
-      <p align="center">
-        <a href="https://www.gitroaster.space" target="_blank">
-          <img src="./src/gitroaster.png" alt="GitRoaster Project GIF"/>
-        </a>
-      </p>
-      <p>A complete SaaS product for automated pull request reviews, featuring team management, billing, and a privacy-first architecture.</p>
-      <p><strong>Tech Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">BitClimb - Code Execution Platform</h3>
-      <p align="center">
-        <a href="https://www.bitclimb.live" target="_blank">
-          <img src="./src/bitclimb.png" alt="BitClimb Project Image"/>
-        </a>
-      </p>
-      <p>A self-hosted, competitive programming platform where I engineered a custom execution engine to reduce runtimes by 50%.</p>
-      <p><strong>Tech Stack:</strong> React, Express.js, Docker, Redis, PostgreSQL</p>
-    </td>
-  </tr>
-</table>
+<div align="center" class="">
 
----
-
-### 💻 My Tech Stack
-
-<div align="center">
-  <h4>Frontend</h4>
   <p>
-    <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-    <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
-    <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a href="https://redux.js.org/" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   </p>
-  <h4>Backend</h4>
-  <p>
-    <a href="https://nodejs.org" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://expressjs.com" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
-    <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  </p>
-  <h4>DevOps & Databases</h4>
-  <p>
-    <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-    <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  </p>
+  </div>
+
+### 🚀 Premier Projects
+
+<div class="projects">
+  <div class="project-card">
+    <h3 align="center" style="color:#fff;">GitRoaster - AI Pull Request Reviewer</h3>
+    <p align="center">
+      <a href="https://www.gitroaster.space" target="_blank">
+        <img src="./src/gitroaster.png" alt="GitRoaster Project" style="border-radius: 8px; max-width: 100%;"/>
+      </a>
+    </p>
+    <p align="center" style="color:#d4d4d8;"><em>A SaaS for automated pull request reviews, with team management, billing, and privacy-first architecture.</em></p>
+    <p align="center" style="color:#a1a1aa;"><strong>Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
+  </div>
+  <div class="project-card">
+    <h3 align="center" style="color:#fff;">BitClimb - Code Execution Platform</h3>
+    <p align="center">
+      <a href="https://www.bitclimb.live" target="_blank">
+        <img src="./src/bitclimb.png" alt="BitClimb Project" style="border-radius: 8px; max-width: 100%;"/>
+      </a>
+    </p>
+    <p align="center" style="color:#d4d4d8;"><em>Competitive programming platform with a custom execution engine to reduce runtimes by 50%.</em></p>
+    <p align="center" style="color:#a1a1aa;"><strong>Stack:</strong> React, Express.js, Docker, Redis, PostgreSQL</p>
+  </div>
 </div>
 
 ---
 
-# 📝 My Latest Articles
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvineetraj&theme=github-dark" alt="GitHub Activity Graph"/>
 
-<table>
 
-<tr><td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757051629255/874fbcda-e53e-4a7d-9401-49a462aad89b.png" width="100%" alt="Introduction to OOPs"/>
+<div align="center" class="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrvineetraj&show_icons=true&theme=github_dark&hide_border=true&bg_color=232526" width="48%" height="150px" style="border-radius: 8px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvineetraj&theme=github-dark&hide_border=true&background=232526" width="48%" height="150px" style="border-radius: 8px;"/>
+</div>
+
+---
+
+
+# 📝 Latest Articles
+
+<div class="articles">
+  <div class="article-card">
+    <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757051629255/874fbcda-e53e-4a7d-9401-49a462aad89b.png" alt="Introduction to OOPs"/>
+    </a>
+    <br />
+    <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank"><strong>Introduction to OOPs</strong></a>
+  </div>
+  <div class="article-card">
+    <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" alt="Linked Lists in Data structure and Algorithms"/>
+    </a>
+    <br />
+    <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank"><strong>Linked Lists in Data structure and Algorithms</strong></a>
+  </div>
+  <div class="article-card">
+    <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" alt="Arrays in Data structure and Algorithms"/>
+    </a>
+    <br />
+    <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank"><strong>Arrays in Data structure and Algorithms</strong></a>
+  </div>
+  <div class="article-card">
+    <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">
+      <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750313893715/31b89db2-945d-4770-9c29-fae5656cda40.jpeg" alt="Essential Docker Commands Every Beginner Should Learn"/>
+    </a>
+    <br />
+    <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank"><strong>Essential Docker Commands Every Beginner Should Learn</strong></a>
+  </div>
+</div>
+
+<div align="center" style="margin: 24px 0;">
+  <a href="https://blog.unknownbug.tech" target="_blank">
+    <img src="https://img.shields.io/badge/View%20More%20Articles-232526?style=flat-square&logo=hashnode&logoColor=white" alt="View More Articles"/>
   </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank">Introduction to OOPs</a>
-</td>
-    <td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" width="100%" alt="Linked Lists in Data structure and Algorithms"/>
-  </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">Linked Lists in Data structure and Algorithms</a>
-</td>
-    </tr><tr><td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" width="100%" alt="Arrays in Data structure and Algorithms"/>
-  </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">Arrays in Data structure and Algorithms</a>
-</td>
-    <td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750313893715/31b89db2-945d-4770-9c29-fae5656cda40.jpeg" width="100%" alt="Essential Docker Commands Every Beginner Should Learn"/>
-  </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">Essential Docker Commands Every Beginner Should Learn</a>
-</td>
-    </tr>
-</table>
-
-### Other Recent Articles
-
-- [Graph Theory in Data structure and Algorithms](https://blog.unknownbug.tech/graph-theory-in-data-structure-and-algorithms)
-- [Docker Installation Guide](https://blog.unknownbug.tech/docker-installation-guide)
-
-<div align="center">
-<a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
 </div>
 
 ---
