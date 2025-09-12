@@ -121,43 +121,34 @@
 ## 📝 Latest Tech Articles
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 32px 0;">
-
-<div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
+  <div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
     <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757051629255/874fbcda-e53e-4a7d-9401-49a462aad89b.png" alt="Introduction to OOPs" style="max-width: 100%; height: auto; border-radius: 8px;"/>
     </a>
     <br />
     <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank"><strong>Introduction to OOPs</strong></a>
   </div>
-
-
-<div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
+  <div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
     <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" alt="Linked Lists in Data structure and Algorithms" style="max-width: 100%; height: auto; border-radius: 8px;"/>
     </a>
     <br />
     <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank"><strong>Linked Lists in Data structure and Algorithms</strong></a>
   </div>
-
-
-<div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
+  <div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
     <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" alt="Arrays in Data structure and Algorithms" style="max-width: 100%; height: auto; border-radius: 8px;"/>
     </a>
     <br />
     <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank"><strong>Arrays in Data structure and Algorithms</strong></a>
   </div>
-
-
-<div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
+  <div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
     <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">
       <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750313893715/31b89db2-945d-4770-9c29-fae5656cda40.jpeg" alt="Essential Docker Commands Every Beginner Should Learn" style="max-width: 100%; height: auto; border-radius: 8px;"/>
     </a>
     <br />
     <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank"><strong>Essential Docker Commands Every Beginner Should Learn</strong></a>
   </div>
-
-
 </div>
 
 <div align="center" style="margin: 32px 0;">
@@ -165,6 +156,5 @@
     <img src="https://img.shields.io/badge/📖%20Read%20More%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF" alt="More Articles" height="40"/>
   </a>
 </div>
-
 
 ---

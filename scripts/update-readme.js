@@ -5,9 +5,12 @@ const fs = require("fs");
 // Use your own reliable API endpoint
 const API_URL = "https://www.mrvineetraj.live/api/blog";
 const README_PATH = "./README.md";
-const START_TAG = "# 📝 My Latest Articles";
-const END_TAG = `<div align="center">
-<a href="https://blog.unknownbug.tech" target="_blank"><button style="background:black; border:0; color:white; border:2px solid gray; padding:4px 16px; font-weight:700;">View More Articles</button></a>
+const START_TAG = "## 📝 Latest Tech Articles";
+const END_TAG = 
+`<div align="center" style="margin: 32px 0;">
+  <a href="https://blog.unknownbug.tech" target="_blank">
+    <img src="https://img.shields.io/badge/📖%20Read%20More%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF" alt="More Articles" height="40"/>
+  </a>
 </div>`;
 
 async function fetchLatestPosts() {
@@ -34,32 +37,19 @@ function generateContent(posts) {
   const olderPosts = postsToDisplay.slice(4);
 
   // 3. Generate the HTML for the image grid
-  let recentPostsHtml = "<table>\n\n";
+  let recentPostsHtml = `<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 32px 0;">\n\n`;
   recentPosts.forEach((post, index) => {
-    recentPostsHtml += index % 2 === 0 ? "<tr>" : "";
-    recentPostsHtml += `<td width="50%" align="center">
-  <a href="${post.link}" target="_blank">
-    <img src="${post.coverImage}" width="100%" alt="${post.title}"/>
-  </a>
-  <br />
-  <a href="${post.link}" target="_blank">${post.title}</a>
-</td>
-    `;
-
-    recentPostsHtml += index % 2 === 1 ? "</tr>" : "";
+    recentPostsHtml += `<div style="flex: 1 1 45%; border-radius: 10px; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2); transition: transform 0.2s; text-align: center;" >
+    <a href="${post.link}" target="_blank">
+      <img src="${post.coverImage}" alt="${post.title}" style="max-width: 100%; height: auto; border-radius: 8px;"/>
+    </a>
+    <br />
+    <a href="${post.link}" target="_blank"><strong>${post.title}</strong></a>
+  </div>\n\n
+`;
   });
-  recentPostsHtml += "\n</table>\n\n";
 
-  // 4. Generate the Markdown for the older posts list
-  let olderPostsMd = olderPosts
-    .map((post) => `* [${post.title}](${post.link})`)
-    .join("\n");
-
-  if (olderPosts.length > 0) {
-    olderPostsMd = `### Other Recent Articles\n${olderPostsMd}`;
-  }
-
-  return recentPostsHtml + olderPostsMd;
+  return recentPostsHtml +"</div>\n\n";
 }
 
 async function updateReadme() {
@@ -109,7 +99,7 @@ async function updateReadme() {
     "\n" +
     readmeContent.substring(endPosition);
 
-  // Add debug loggi
+  // Add debug logging
   fs.writeFileSync(README_PATH, newReadmeContent);
   console.log("README.md updated with new image grid and article list!");
 }
