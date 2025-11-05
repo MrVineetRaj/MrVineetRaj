@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/64fe44b1-74c4-472f-bb37-5592d0505488" /><div align="center">
   <img src="./src/profile_header.jpg" width="100%" height="280" alt="Profile Header"/>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mrvineetraj&style=for-the-badge&color=2962FF&labelColor=000000" alt="Profile Views" height="32"/>
@@ -95,6 +95,16 @@
 
 <table>
   <tr>
+      <td width="50%">
+      <h3 align="center">BitClimb - Code Execution Platform</h3>
+      <p align="center">
+        <a href="https://www.bitclimb.live" target="_blank">
+          <img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/3b114435-12fd-4261-88f3-593be019f198" />
+        </a>
+      </p>
+      <p align="center"><em>A DBaaS platform to provide Database connection with industry grade security and isolation for each project</em></p>
+      <p align="center"><strong>Stack:</strong>React, Express, BullMQ, tRPCDocker, Redis, PostgreSQL</p>
+    </td>
     <td width="50%">
       <h3 align="center">GitRoaster - AI Pull Request Reviewer</h3>
       <p align="center">
@@ -105,16 +115,7 @@
       <p align="center"><em>A SaaS for automated pull request reviews, with team management, billing, and privacy-first architecture.</em></p>
       <p align="center"><strong>Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
     </td>
-    <td width="50%">
-      <h3 align="center">BitClimb - Code Execution Platform</h3>
-      <p align="center">
-        <a href="https://www.bitclimb.live" target="_blank">
-          <img src="./src/bitclimb.png" alt="BitClimb Project" width="100%"/>
-        </a>
-      </p>
-      <p align="center"><em>Competitive programming platform with a custom execution engine to reduce runtimes by 50%.</em></p>
-      <p align="center"><strong>Stack:</strong> React, Express.js, Docker, Redis, PostgreSQL</p>
-    </td>
+  
   </tr>
 </table>
 
