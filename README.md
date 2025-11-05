@@ -96,9 +96,9 @@
 <table>
   <tr>
       <td width="50%">
-      <h3 align="center">BitClimb - Code Execution Platform</h3>
+      <h3 align="center">DataBridge - DBaaS</h3>
       <p align="center">
-        <a href="https://www.bitclimb.live" target="_blank">
+        <a href="https://databridge.unknownbug.tech" target="_blank">
           <img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/3b114435-12fd-4261-88f3-593be019f198" />
         </a>
       </p>
@@ -113,7 +113,7 @@
         </a>
       </p>
       <p align="center"><em>A SaaS for automated pull request reviews, with team management, billing, and privacy-first architecture.</em></p>
-      <p align="center"><strong>Stack:</strong> Next.js, Node.js, Nginx, Docker, MongoDB</p>
+      <p align="center"><strong>Stack:</strong> Next.js, Inngest,tRPC, Docker, Postgres</p>
     </td>
   
   </tr>
