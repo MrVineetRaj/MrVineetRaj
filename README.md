@@ -84,11 +84,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrvineetraj&show_icons=true&theme=github_dark&hide_border=true&bg_color=000" width="48%" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrvineetraj&theme=github-dark&hide_border=true&background=000" width="48%" height="150px"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvineetraj&theme=tokyo-night&hide_border=true&bg_color=000&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%"/>
 </div>
 
