@@ -1,4 +1,4 @@
-<img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/64fe44b1-74c4-472f-bb37-5592d0505488" /><div align="center">
+<div>
   <img src="./src/profile_header.jpg" width="100%" height="280" alt="Profile Header"/>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mrvineetraj&style=for-the-badge&color=2962FF&labelColor=000000" alt="Profile Views" height="32"/>
