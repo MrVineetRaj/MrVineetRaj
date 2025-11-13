@@ -124,34 +124,34 @@
 <table>
 <tr>
 <td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank">
+  <a href="https://bitwise.mrvineetraj.live/spinning-up-databases-firewalls-and-backups-the-story-of-databridge" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1762588140346/f75224be-28fb-43ec-90ba-4e9f5f7a2ecf.png" alt="Spinning Up Databases, Firewalls, and Backups — The Story of DataBridge" width="100%"/>
+  </a>
+  <br />
+  <a href="https://bitwise.mrvineetraj.live/spinning-up-databases-firewalls-and-backups-the-story-of-databridge" target="_blank"><strong>Spinning Up Databases, Firewalls, and Backups — The Story of DataBridge</strong></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://bitwise.mrvineetraj.live/introduction-to-oops" target="_blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757051629255/874fbcda-e53e-4a7d-9401-49a462aad89b.png" alt="Introduction to OOPs" width="100%"/>
   </a>
   <br />
-  <a href="https://blog.unknownbug.tech/introduction-to-oops" target="_blank"><strong>Introduction to OOPs</strong></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" alt="Linked Lists in Data structure and Algorithms" width="100%"/>
-  </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/linked-lists-in-data-structure-and-algorithms" target="_blank"><strong>Linked Lists in Data structure and Algorithms</strong></a>
+  <a href="https://bitwise.mrvineetraj.live/introduction-to-oops" target="_blank"><strong>Introduction to OOPs</strong></a>
 </td>
   </tr>
 <tr>
 <td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank">
+  <a href="https://bitwise.mrvineetraj.live/linked-lists-in-data-structure-and-algorithms" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" alt="Linked Lists in Data structure and Algorithms" width="100%"/>
+  </a>
+  <br />
+  <a href="https://bitwise.mrvineetraj.live/linked-lists-in-data-structure-and-algorithms" target="_blank"><strong>Linked Lists in Data structure and Algorithms</strong></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://bitwise.mrvineetraj.live/arrays-in-data-structure-and-algorithms" target="_blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" alt="Arrays in Data structure and Algorithms" width="100%"/>
   </a>
   <br />
-  <a href="https://blog.unknownbug.tech/arrays-in-data-structure-and-algorithms" target="_blank"><strong>Arrays in Data structure and Algorithms</strong></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1750313893715/31b89db2-945d-4770-9c29-fae5656cda40.jpeg" alt="Essential Docker Commands Every Beginner Should Learn" width="100%"/>
-  </a>
-  <br />
-  <a href="https://blog.unknownbug.tech/essential-docker-commands-every-beginner-should-learn" target="_blank"><strong>Essential Docker Commands Every Beginner Should Learn</strong></a>
+  <a href="https://bitwise.mrvineetraj.live/arrays-in-data-structure-and-algorithms" target="_blank"><strong>Arrays in Data structure and Algorithms</strong></a>
 </td>
   </tr>
 
@@ -162,6 +162,7 @@
     <img src="https://img.shields.io/badge/📖%20Read%20More%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF" alt="More Articles" height="40"/>
   </a>
 </div>
+
 
 
 
