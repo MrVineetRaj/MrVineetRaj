@@ -1,172 +1,37 @@
-<div>
-  <img src="./src/profile_header.jpg" width="100%" height="280" alt="Profile Header"/>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=mrvineetraj&style=for-the-badge&color=2962FF&labelColor=000000" alt="Profile Views" height="32"/>
-  </div>
-
-  <h1>
-    Hi 👋, I'm Vineet Raj
-  </h1>
-  
-  <p>
-    🚀 <strong>Full-Stack Builder</strong> • Crafting end-to-end solutions that solve real-world problems
-  </p>
-  
-  <p>
-    <a href="https://www.mrvineetraj.live/linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="32"/>
-    </a>
-    <a href="https://www.mrvineetraj.live/leetcode" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" height="32"/>
-    </a>
-    <a href="https://www.mrvineetraj.live" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" alt="Portfolio" height="32"/>
-    </a>
-    <a href="https://www.mrvineetraj.live/blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF" alt="Blog" height="32"/>
-    </a>
-  </p>
-</div>
-
-<br/>
-
+<img src="./src/profile_header.jpg" width="100%" height="280" alt="Profile Header"/>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=mrvineetraj&style=for-the-badge&color=2962FF&labelColor=000000" alt="Profile Views" height="32"/>
 </div>
 
-<br/>
+# Hola 👋! I am Vineet Raj
+> __Full stack builder__ • Crafting end to end solutions that solve rea world problems
 
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvineetraj&theme=tokyo-night&hide_border=true&bg_color=000&color=58a6ff&line=1f6feb&point=c9d1d9" width="100%"/>
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-      <td width="50%">
-      <h3 align="center">DataBridge - DBaaS</h3>
-      <p align="center">
-        <a href="https://databridge.unknownbug.tech" target="_blank">
-          <img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/3b114435-12fd-4261-88f3-593be019f198" />
-        </a>
-      </p>
-      <p align="center"><em>A DBaaS platform to provide Database connection with industry grade security and isolation for each project</em></p>
-      <p align="center"><strong>Stack:</strong>React, Express, BullMQ, tRPCDocker, Redis, PostgreSQL</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">GitRoaster - AI Pull Request Reviewer</h3>
-      <p align="center">
-        <a href="https://www.gitroaster.space" target="_blank">
-          <img src="./src/gitroaster.png" alt="GitRoaster Project" width="100%"/>
-        </a>
-      </p>
-      <p align="center"><em>A SaaS for automated pull request reviews, with team management, billing, and privacy-first architecture.</em></p>
-      <p align="center"><strong>Stack:</strong> Next.js, Inngest,tRPC, Docker, Postgres</p>
-    </td>
-  
-  </tr>
-</table>
-
-## 📝 Latest Tech Articles
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <a href="https://bitwise.mrvineetraj.live/spinning-up-databases-firewalls-and-backups-the-story-of-databridge" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1762588140346/f75224be-28fb-43ec-90ba-4e9f5f7a2ecf.png" alt="Spinning Up Databases, Firewalls, and Backups — The Story of DataBridge" width="100%"/>
-  </a>
-  <br />
-  <a href="https://bitwise.mrvineetraj.live/spinning-up-databases-firewalls-and-backups-the-story-of-databridge" target="_blank"><strong>Spinning Up Databases, Firewalls, and Backups — The Story of DataBridge</strong></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://bitwise.mrvineetraj.live/introduction-to-oops" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1757051629255/874fbcda-e53e-4a7d-9401-49a462aad89b.png" alt="Introduction to OOPs" width="100%"/>
-  </a>
-  <br />
-  <a href="https://bitwise.mrvineetraj.live/introduction-to-oops" target="_blank"><strong>Introduction to OOPs</strong></a>
-</td>
-  </tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://bitwise.mrvineetraj.live/linked-lists-in-data-structure-and-algorithms" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1755369194792/30b667b2-8eec-4888-9edd-799e96ad6d88.png" alt="Linked Lists in Data structure and Algorithms" width="100%"/>
-  </a>
-  <br />
-  <a href="https://bitwise.mrvineetraj.live/linked-lists-in-data-structure-and-algorithms" target="_blank"><strong>Linked Lists in Data structure and Algorithms</strong></a>
-</td>
-<td width="50%" align="center">
-  <a href="https://bitwise.mrvineetraj.live/arrays-in-data-structure-and-algorithms" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1751652160342/161e3f42-7c3c-414e-91c7-f6218105cba8.png" alt="Arrays in Data structure and Algorithms" width="100%"/>
-  </a>
-  <br />
-  <a href="https://bitwise.mrvineetraj.live/arrays-in-data-structure-and-algorithms" target="_blank"><strong>Arrays in Data structure and Algorithms</strong></a>
-</td>
-  </tr>
-
-</table>
-
-<div align="center">
-  <a href="https://blog.unknownbug.tech" target="_blank">
-    <img src="https://img.shields.io/badge/📖%20Read%20More%20Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF" alt="More Articles" height="40"/>
-  </a>
-</div>
+I am a curios builder who is just trying to explore the world of programming from various POVs as right now i am not sure where I would lean in future so have to give a try to every thing that i can ... as you know
+> As long as I am alive I have a million ways to achieve my dream, so i don't want to get depressed over mere number of attempts that i made
 
 
+## Social Handles
+- [__Portfolio__](https://www.mrvineetraj.live)
+- [__Linkedin__](https://www.mrvineetraj.live/linkedin)
+- [__LeetCode__](https://www.mrvineetraj.live/leetcode)
+- [__Blog__](https://www.mrvineetraj.live/blog)
+
+## My Projects
+
+__Databridge__
+- Awsome database as a service platform
+- by default every db connections is secure and isolated
+- More security ? go with cidr like ip access rules
+
+__Gitroaster__
+> Spending to much time on code review ? hand it down to our roaster -> gitroaster.space
+- It provides in memory code review
+- No code is stored in our database
+- Simple 3 to 4 clicks and boom it's up
+- Completly autonomous
 
 
-
+## Blogs
 
 
 
