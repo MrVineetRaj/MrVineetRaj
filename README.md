@@ -7,7 +7,7 @@
 > __Full stack builder__ • Crafting end to end solutions that solve rea world problems
 
 I am a curios builder who is just trying to explore the world of programming from various POVs as right now i am not sure where I would lean in future so have to give a try to every thing that i can ... as you know
-> As long as I am alive I have a million ways to achieve my dream, so i don't want to get depressed over mere number of attempts that i made
+> As long as I am alive I have million of ways to achieve my dream, so i don't want to get depressed over mere number of attempts that i made
 
 
 ## Social Handles
