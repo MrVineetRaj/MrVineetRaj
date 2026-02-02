@@ -14,7 +14,7 @@ I am a curios builder who is just trying to explore the world of programming fro
 - [__Portfolio__](https://www.mrvineetraj.live)
 - [__Linkedin__](https://www.mrvineetraj.live/linkedin)
 - [__LeetCode__](https://www.mrvineetraj.live/leetcode)
-- [__Blog__](https://www.mrvineetraj.live/blog)
+- [__Blog__](https://bitwise.mrvineetraj.live)
 
 ## My Projects
 
